@@ -1,5 +1,6 @@
-한글 퀴즈: https://kjessec.github.io/tezoskorea/
-English: https://kjessec.github.io/tezoskorea/english
+- 한글 퀴즈: [https://kjessec.github.io/tezoskorea/](https://kjessec.github.io/tezoskorea/)
+- English: [https://kjessec.github.io/tezoskorea/english](https://kjessec.github.io/tezoskorea/english)
+
 
 1. What is the full name of DLS, the company behind Tezos?
 2. What is the token name for Tezos?

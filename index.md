@@ -1,5 +1,7 @@
-한글 퀴즈: https://kjessec.github.io/tezoskorea/
-English: https://kjessec.github.io/tezoskorea/english
+
+- 한글 퀴즈: [https://kjessec.github.io/tezoskorea/](https://kjessec.github.io/tezoskorea/)
+- English: [https://kjessec.github.io/tezoskorea/english](https://kjessec.github.io/tezoskorea/english)
+
 
 1. 테조스 개발사인 DLS의 전체 명칭을 적어주세요
 2. 테조스의 토큰 약칭은 무엇인가요?

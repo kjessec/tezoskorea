@@ -3,7 +3,7 @@
 
 
 1. What is the full name of DLS, the company behind Tezos?
-2. What is the token name for Tezos?
+2. What is the token symbol for Tezos?
 3. What do you call the bakers in terms of delegation?
 4. What is the default block generation period?
 5. How many blocks are there in 1 cycle of Tezos betanet?
